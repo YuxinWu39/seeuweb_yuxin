@@ -1,0 +1,30 @@
+h1 {
+	color: yellowgreen;
+}
+
+.first {
+	color: grey;
+	font-size: 50px;
+}
+
+
+.second {
+	color: grey;
+	font-size: 30px;
+}
+
+.third {
+	color: grey;
+	font-size: 20px;
+}
+
+#first_id {
+	color: red;
+	font-size: 30px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+* {
+	color: green;
+}

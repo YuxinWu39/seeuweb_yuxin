@@ -1,0 +1,40 @@
+#img-pos {
+	display: flex;
+	justify-content: center;
+}
+
+.homepage-header {
+	display: flex;
+	justify-content: center;
+}
+
+#main-block {
+	display: flex;
+	justify-content: center;
+}
+
+#sub-block {
+	display: flex;
+	justify-content: center;
+}
+
+#upper {
+	display: flex;
+	justify-content: center;
+}
+
+#lower {
+	display: flex;
+	justify-content: center;
+}
+
+a {
+  color: black;
+}
+a:visited {
+  color: blue;
+}
+a:hover, a:active, a:focus {
+  color:black;
+  text-decoration: none;
+}
